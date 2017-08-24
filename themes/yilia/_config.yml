@@ -8,17 +8,17 @@ menu:
 subnav:
   github: "https://github.com/Myqilixiang"
   rss: /atom.xml
-  #psn: "#"
-  #zhihu: "#"
-  #douban: "#"
-  #segmentfault: "#"
-  #bilibili: "#"
-  #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
-  #facebook: "#"
-  #google: "#"
-  #twitter: "#"
-  #linkedin: "#"
+  psn: "#"
+  zhihu: "#"
+  douban: "#"
+  segmentfault: "#"
+  bilibili: "#"
+  acfun: "#"
+  mail: "#"
+  facebook: "#"
+  google: "#"
+  twitter: "#"
+  linkedin: "#"
 
 rss: /atom.xml
 
@@ -78,8 +78,8 @@ mobile:
 #wangyiyun: '2dba06fbf8d24c13915ea6c6aa7183b1'
 
 #3、畅言
-changyan_appid: 'cysX3aGWt'
-changyan_conf: 'prod_1dcda447175aada96edcdb7e412338fa'
+# changyan_appid: 'cysX3aGWt'
+# changyan_conf: 'prod_1dcda447175aada96edcdb7e412338fa'
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
 disqus: false
